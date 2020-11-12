@@ -1,0 +1,13 @@
+{
+ "name": "Pally-project",
+ "version": "1.0.0",
+ "description": "Pally Dashoboard project",
+ "private": true,
+ "scripts": {
+  "start": "node index.js"
+ },
+ "dependencies": {
+  "express": "^4.17.1",
+  "vash": "^0.13.0"
+ }
+}
